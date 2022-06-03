@@ -1,4 +1,4 @@
-# Bluetooth Controlled Messenger LCD
+# Bluetooth Controlled Messenger 
 
 <h3 align="left">About</h3>
 
