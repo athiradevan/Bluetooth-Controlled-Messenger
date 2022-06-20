@@ -11,7 +11,7 @@ We may use our smartphones to turn ON or OFF the LCD display as well as send tex
 
 <h3 align="left">Components Required: </h3>
 
-* Arduino Uno
+* Arduino 
 * DMD 
 * Bluetooth Module (for example: HC-05)
 * Smartphone 
